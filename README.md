@@ -33,3 +33,10 @@ npm install
 npm run dev ou npm run build
 
 ```
+
+## Extension
+- Markdown All in One
+  - yzhang.markdown-all-in-one
+
+- Todo Tree
+  - Gruntfuggly.todo-tree
