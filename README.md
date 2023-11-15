@@ -26,3 +26,10 @@ composer require infyomlabs/laravel-ui-adminlte
 php artisan ui adminlte --auth
 
 ```
+
+```bash
+
+npm install
+npm run dev
+
+```
