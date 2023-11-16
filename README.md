@@ -33,6 +33,8 @@ php artisan ui adminlte --auth
 
 ```
 
+<!-- TODO : Ajouter une explication sur comment utiliser run build ou run dev -->
+
 ```bash
 npm install
 npm run build
