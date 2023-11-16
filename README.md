@@ -40,9 +40,49 @@ npm run dev ou npm run build
 
 ```
 
+```bash
+composer require laracasts/flash
+
+```
+A copie dans fichier config/app.php
+
+```Json
+'providers' => [
+    Laracasts\Flash\FlashServiceProvider::class,
+],
+
+'aliases' => [
+    'Flash' => Laracasts\Flash\Flash::class,
+],
+```
+
+```bash
+composer require laravelcollective/html
+
+```
+
+```Json
+'providers' => [
+    Collective\Html\HtmlServiceProvider::class,
+],
+
+'aliases' => [
+  'Form' => Collective\Html\FormFacade::class,
+  'Html' => Collective\Html\HtmlFacade::class,],
+```
+
+
+
+
+
 ## Extension
 - Markdown All in One
   - yzhang.markdown-all-in-one
 
 - Todo Tree
   - Gruntfuggly.todo-tree
+
+
+
+
+
