@@ -34,10 +34,8 @@ php artisan ui adminlte --auth
 ```
 
 ```bash
-
 npm install
-npm run dev ou npm run build
-
+npm run build
 ```
 
 ```bash
