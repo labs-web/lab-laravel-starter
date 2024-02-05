@@ -6,7 +6,6 @@ body {
 
 img {
   width: 100%;
-  text-align: center;
 }
 
 /* Figure */
@@ -31,9 +30,9 @@ h3 {
   font-size: 1.17em;
 }
 
-code {
+/* code {
   display: none;
-}
+} */
 
 article[size="A4"] {
   display: block;
@@ -56,8 +55,6 @@ article[size="A4"] {
 
   img {
     width: 85%;
-    text-align: end;
-
   }
 
 
