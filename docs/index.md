@@ -1,15 +1,17 @@
 ---
 layout: default
 slug: /index
-order: 1
+order: 2
 ---
 
-{% assign chapitres = site.pages | sort: "order" %}
+ <!--  -->
 
-{% for chapitre in chapitres %}
-  {% if chapitre.title %}
-    {{ chapitre.content }}
-  {% endif %}
-{% endfor %}
 
  
+## livrable
+
+### Rapport 
+[Rapport.html](http://127.0.0.1:4000/lab-git/rapport.html)
+
+### Présentation 
+[Présentation]()
