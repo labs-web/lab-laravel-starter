@@ -1,8 +1,8 @@
 {
     "Introduction":{
-        "Titre" :"",
+        "Titre" :"Lab laravel starter",
         "Reference":"",
-        "Description" : ""
+        "Description" : "Creation d'une application laravel avec des packages que nous utillisons"
     },
     "Backlog":{
         "Titre" : "Backlog",
