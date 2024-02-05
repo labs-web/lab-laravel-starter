@@ -5,14 +5,23 @@ order: 2
 ---
 <!--  -->
 
-## Backlog
-### Structure des dossiers
+# Backlog
+## Structure des dossiers
 
 - DOCS
   - Index.md
   - Introduction
     - images
     - Introduction.md
+  - Liste-packages
+    - images
+    - Liste-packages.md
+  - Creation-app
+    - images
+    - Creation-app.md
+  - Installation-admin-lte
+    - images
+    - Installation-admin-lte.md
   - Conclusion
     - Images
     - Conclusion.md
