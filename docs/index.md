@@ -11,7 +11,7 @@ order: 2
 ## livrable
 
 ### Rapport 
-[Rapport.html](http://127.0.0.1:4000/lab-laravel-starter/rapport.html)
+[Rapport.html](http://labs-web.github.io/lab-laravel-starter/rapport.html)
 
 ### Présentation 
 [Présentation]()
