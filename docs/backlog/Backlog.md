@@ -16,13 +16,13 @@ order: 2
     - Introduction.md
   - Liste-packages
     - images
-    - Liste-packages.md
+    - compte-rendu.liste-packages.md
   - Creation-app
     - images
-    - Creation-app.md
+    - compte-rendu.creation-app.md
   - Installation-admin-lte
     - images
-    - Installation-admin-lte.md
+    - compte-rendu.installation-admin-lte.md
   - Conclusion
     - Images
     - Conclusion.md
