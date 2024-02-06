@@ -9,7 +9,7 @@ order: 2
 
 ### Structure des dossiers
 
-- DOCS
+- docs
   - Index.md
   - Introduction
     - images
