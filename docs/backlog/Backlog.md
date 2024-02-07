@@ -9,6 +9,7 @@ order: 2
 
 ### Structure des dossiers
 
+![alt text](./backlog/images/Digital personal files-rafiki.png)
 <!-- note -->
 
 - docs
