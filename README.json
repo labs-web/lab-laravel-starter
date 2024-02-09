@@ -35,6 +35,10 @@
             {
                 "Titre":"Rapport Lab-laravel-starter",
                 "Lien":"http://labs-web.github.io/lab-laravel-starter/rapport.html"
+            },
+            {
+                "Titre":"Presentation Lab-laravel-starter",
+                "Lien":"http://labs-web.github.io/lab-laravel-starter/presentation.html"
             }
            
         ]
