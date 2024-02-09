@@ -31,6 +31,8 @@ Le backlog est une liste ordonées des tâches
  
 [Rapport](http://labs-web.github.io/lab-laravel-starter/rapport.html)
 
+[Présentation](http://labs-web.github.io/lab-laravel-starter/presentation.html)
+
 
 
 - [Autoformation](#) 
