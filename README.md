@@ -28,15 +28,10 @@ Le backlog est une liste ordonées des tâches
   - Documentation 
 ## Références 
 
-## Livrable
+ 
 [Rapport](http://labs-web.github.io/lab-laravel-starter/rapport.html)
 
 
-
-
-
-
- 
 
 - [Autoformation](#) 
 
