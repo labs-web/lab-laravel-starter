@@ -3,11 +3,14 @@ layout: default
 title: structure-des-dossiers.md
 order: 2
 ---
-<!--  -->
-
 ## Backlog
+<!-- new slide -->
+
 
 ### Structure des dossiers
+
+![alt text](./backlog/images/Digital personal files-rafiki.png)
+<!-- note -->
 
 - docs
   - Index.md
@@ -16,13 +19,13 @@ order: 2
     - Introduction.md
   - Liste-packages
     - images
-    - Liste-packages.md
+    - compte-rendu.liste-packages.md
   - Creation-app
     - images
-    - Creation-app.md
+    - compte-rendu.creation-app.md
   - Installation-admin-lte
     - images
-    - Installation-admin-lte.md
+    - compte-rendu.installation-admin-lte.md
   - Conclusion
     - Images
     - Conclusion.md
@@ -30,3 +33,5 @@ order: 2
     - Backlog.md
   -  rapport.md
   -  présentation.html
+
+  <!-- new slide -->

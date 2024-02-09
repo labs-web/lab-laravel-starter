@@ -4,4 +4,6 @@ order: 5
 ---
 <!--  -->
 
-## Installation-admin-lte
+## Installation d'adminlte
+
+<!-- new slide -->
