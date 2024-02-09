@@ -4,11 +4,8 @@
  
 
 
-
-
-
-
-
+## Livrable
+[Rapport](http://labs-web.github.io/lab-laravel-starter/rapport.html)
 
 
 
