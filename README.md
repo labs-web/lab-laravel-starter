@@ -10,14 +10,17 @@ Le backlog est une liste ordonées des tâches
 
 - **chapitre** 
 - **exposé** 
+  - [1.exposé-starter-kits.md](./Backlog/exposé/1.exposé-starter-kits.md) 
 - **feature** 
   - [1.backlog.6.md](./Backlog/feature/1.backlog.6.md) 
   - [2.liste-packages.7.md](./Backlog/feature/2.liste-packages.7.md) 
   - [3.creation-app.8.md](./Backlog/feature/3.creation-app.8.md) 
   - [4.installation-admin-lte.9.md](./Backlog/feature/4.installation-admin-lte.9.md) 
+  - [4.installation-packages.9.md](./Backlog/feature/4.installation-packages.9.md) 
 - **sous-tâche** 
-  - [1.init-rapport.15.md](./Backlog/sous-tâche/1.init-rapport.15.md) 
-  - [2.init-présentation.16.md](./Backlog/sous-tâche/2.init-présentation.16.md) 
+  - [1.init-lab.15.md](./Backlog/sous-tâche/1.init-lab.15.md) 
+- **thème** 
+  - [1.lab-laravel-starter.5.md](./Backlog/thème/1.lab-laravel-starter.5.md) 
 ## Livrables 
 
  
@@ -29,13 +32,8 @@ Le backlog est une liste ordonées des tâches
 ## Références 
 
  
-[Rapport](http://labs-web.github.io/lab-laravel-starter/rapport.html)
-
-[Présentation](http://labs-web.github.io/lab-laravel-starter/presentation.html)
-
-
-
-
 
 - [Autoformation](#) 
+- [Rapport Lab-laravel-starter](http://labs-web.github.io/lab-laravel-starter/rapport.html) 
+- [Presentation Lab-laravel-starter](http://labs-web.github.io/lab-laravel-starter/presentation.html) 
 
